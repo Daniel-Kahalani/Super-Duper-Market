@@ -3,22 +3,22 @@ Hi!
 In this project I develop a web app that alow to store sellers define 
 theris store in this web and alow customer to make orders
 
-## Screenshotss
+## Screenshots
 
 
 ![Registration Page](Screenshots/login.png)
-![Registration Page](Screenshots/user account.png)
+![Registration Page](Screenshots/userAccount.png)
 ![Registration Page](Screenshots/regions.png)
 
-![Registration Page](Screenshots/region stores.png)
-![Registration Page](Screenshots/region products.png)
-![Registration Page](Screenshots/order history.png)
-![Registration Page](Screenshots/add new store.png)
+![Registration Page](Screenshots/regionStores.png)
+![Registration Page](Screenshots/regionProducts.png)
+![Registration Page](Screenshots/orderHistory.png)
+![Registration Page](Screenshots/addNewStore.png)
 
 ### Place order process
-![Registration Page](Screenshots/choose products.png)
-![Registration Page](Screenshots/choose discounts.png)
-![Registration Page](Screenshots/order summary.png)
+![Registration Page](Screenshots/chooseProducts.png)
+![Registration Page](Screenshots/chooseDiscounts.png)
+![Registration Page](Screenshots/ordersSummary.png)
 ![Registration Page](Screenshots/feedback.png)
 
 
