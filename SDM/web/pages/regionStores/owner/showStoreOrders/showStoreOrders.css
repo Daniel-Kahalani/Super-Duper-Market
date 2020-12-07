@@ -1,0 +1,7 @@
+.highlight{
+    background-color: #ccc;
+}
+
+#orders-table {
+    cursor: pointer;
+}
