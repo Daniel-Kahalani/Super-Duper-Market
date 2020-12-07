@@ -1,7 +1,6 @@
 ﻿# Welcome to Super Duper Market
 Hi!
-In this project I develop a web app that alow to store sellers define 
-theris store in this web and alow customer to make orders
+Super Duper Market (SDM) is a web platform that I develop for store-owners to upload theirs stores and get all the infomation of the orders that was orderd from their stores, and for customers to order groceries for lowest cost טy ordering each product from the store that sale it for the lowest price 
 
 ## Screenshots
 
