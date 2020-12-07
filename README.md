@@ -1,6 +1,6 @@
 ﻿# Welcome to Super Duper Market
 Hi!
-Super Duper Market (SDM) is a web platform that I develop for store-owners to upload theirs stores and get all the infomation of the orders that was orderd from their stores, and for customers to order groceries for lowest cost by ordering each product from the store that sale it for the lowest price. 
+Super Duper Market (SDM) is a web platform that I develop for store-owners to upload their stores and get all the infomation of the orders that was orderd from their stores, and for customers to order groceries for lowest cost by ordering each product from the store that sale it for the lowest price. 
 
 ## Screenshots
 
